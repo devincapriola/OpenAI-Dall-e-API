@@ -2,7 +2,7 @@
   "mcpServers": {
     "filesystem": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/Users/alex"]
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/Users/devin"]
     },
     "jira": {
       "command": "npx",
